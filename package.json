@@ -1,0 +1,21 @@
+{
+  "name": "server-and-api",
+  "version": "1.0.0",
+  "description": "This project is a basic Node.js server built **without using any frameworks**. It serves static HTML files and includes basic routing logic for both a webpage and a 404 handler.",
+  "homepage": "https://github.com/FaroMasiiwa/node-server-and-api#readme",
+  "bugs": {
+    "url": "https://github.com/FaroMasiiwa/node-server-and-api/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaroMasiiwa/node-server-and-api.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
